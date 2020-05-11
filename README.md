@@ -1,4 +1,4 @@
-# RJ Library ✨
+# XHR Library ✨
 
 Simple wrapper around XMLHttpRequest to make http call.
  .  
