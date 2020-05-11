@@ -7,7 +7,7 @@ Simple wrapper around XMLHttpRequest to make http call.
 #### Install using npm
 ```bash
 # install it via npm
-npm install --save ssh://git@github.com:rejuvenationinc/rj-xhr.git
+npm install --save ssh://git@github.com:smondal/rj-xhr.git
 ```
 * This package is not on NPM, use GitHub source only.
 
@@ -16,7 +16,7 @@ npm install --save ssh://git@github.com:rejuvenationinc/rj-xhr.git
 
 ```html
 <!-- Insert the vue core before vue-toasted -->
-<script src="https://github.com/rejuvenationinc/rj-xhr/tree/master/dist/main.js"></script>
+<script src="https://github.com/smondal/rj-xhr/tree/master/dist/main.js"></script>
 ```
 
 ## Usage
